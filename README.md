@@ -1,5 +1,5 @@
 # 💫 Manepalli Mukesh Chandra Rama Ganesh  
-**Computer Science Student | Web Developer | AI Enthusiast**  
+**Computer Science Student | Cloud Architect | AI Enthusiast**  
 📄 [View My Resume](https://your-resume-link.com)
 
 ---
@@ -49,13 +49,13 @@ Passionate about technology and innovation, I’m constantly looking for opportu
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ### 🧰 Others
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/GenAI-%2300C4CC.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-%2300C4CC.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 ---
 
@@ -91,6 +91,6 @@ Passionate about technology and innovation, I’m constantly looking for opportu
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=trishitanalla&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mukesh6130&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Profile generated using GPRM ( https://gprm.itsvg.in ) -->
