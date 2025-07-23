@@ -1,6 +1,6 @@
 # 💫 Manepalli Mukesh Chandra Rama Ganesh  
 **Computer Science Student | Cloud Architect | AI Enthusiast**  
-📄 [View My Resume](https://your-resume-link.com)
+📄 [View My Resume](https://drive.google.com/file/d/1o1SERjfCL9l7c5AUHIKPZ8avKIQ-uajr/view?usp=sharing)
 
 ---
 
